@@ -23,7 +23,7 @@ namespace GithubTest
         public MainWindow()
         {
             // Versie 2.0
-            Initializeomponent();
+            InitializeComponent();
         }
     }
 }
